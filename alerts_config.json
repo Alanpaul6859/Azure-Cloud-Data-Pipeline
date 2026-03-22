@@ -1,0 +1,3 @@
+{
+  "alerts": ["pipeline_failure", "delay_warning"]
+}

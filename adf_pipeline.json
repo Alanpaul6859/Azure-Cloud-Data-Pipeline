@@ -1,0 +1,9 @@
+{
+  "name": "ETL_Pipeline",
+  "activities": [
+    {
+      "name": "CopyData",
+      "type": "Copy"
+    }
+  ]
+}
